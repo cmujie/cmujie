@@ -2,7 +2,7 @@
 - 👀 I’m interested in building an app
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on the app I'm currently building
-- 📫 How to reach me here @cmujie
+- 📫 How to reach me at charles@nimsa.me
 
 <!---
 cmujie/cmujie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
