@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Charles
-- 👀 I’m interested in building an app
-- 🌱 I’m currently learning flutter
+- 👀 I’m building an app
 - 💞️ I’m looking to collaborate on the app I'm currently building
 - 📫 How to reach me at (see link to website)
 
